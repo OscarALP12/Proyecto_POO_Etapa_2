@@ -9,12 +9,7 @@ prettier.config.js
 .prettierrc
 
 # Ignorar archivos de otras prácticas y trabajos
-**/Práctica_1/
-**/Práctica_2/
-**/Práctica_3/
-**/Práctica_4/
-**/Práctica_5/
-**/Práctica_6/
-**/Práctica_7/
-**/Práctica_9/
-**/Proyecto/
+**/g7/src/
+**/g7/doc/
+**/g7/lib/
+**/g7/test/
